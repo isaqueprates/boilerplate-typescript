@@ -1,4 +1,4 @@
 const message = 'Project successfully installed! 🚀🚀🚀';
-const test = 'test'
+const test = 'test';
 
-console.log(message)
+console.log(message);
